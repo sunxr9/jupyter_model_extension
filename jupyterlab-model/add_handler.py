@@ -50,4 +50,4 @@ class Add_models(APIHandler):
 
 
 
-add_handler = r'/lab/api/addmodel'
+add_handler = r'/model/add'

@@ -53,5 +53,5 @@ class Type_Handler(APIHandler):
         return self.write(t_dict)
 
 
-type_handler = r'/lab/api/type'
+type_handler = r'/model/type'
 
